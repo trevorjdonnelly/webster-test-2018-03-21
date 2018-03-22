@@ -17,4 +17,8 @@ h1, h2 {
     display: block;
     padding-top: .5em; }
 
+/* line 20, /Users/rsgranne/Dropbox/Documents/Web Dev Projects/webster-test-2018-03-20/css/main.scss */
+blockquote {
+  background-color: yellow; }
+
 /*# sourceMappingURL=main.css.map */
